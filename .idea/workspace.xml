@@ -2,145 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="992dc099-5872-4d58-93ea-5fea10dbb7a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/res/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/down_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/erweima.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/gr_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/gr_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/gr_img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/gr_img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/header2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/jiantou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/liuyan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/sy_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/sy_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/sy_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/sy_img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/sy_img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/wy_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/wy_img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/wy_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/wy_img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/wy_img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/wz_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/xc_img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/xc_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/xc_img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/xc_img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/js/util/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/js/util/mm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/css/layui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/css/layui.mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/css/modules/code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/css/modules/layer/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/css/modules/layer/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/font/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/font/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/font/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/font/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/37.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/39.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/41.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/42.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/43.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/44.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/46.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/47.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/49.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/51.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/56.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/57.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/59.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/61.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/63.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/65.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/66.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/67.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/69.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/71.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/images/face/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/layedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/laypage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/laytpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/rate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/lay/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/layui.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/layui/layui.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -172,13 +34,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="188" column="7" selection-start-line="188" selection-start-column="7" selection-end-line="188" selection-end-column="7" />
+            <state relative-caret-position="434">
+              <caret line="63" column="32" lean-forward="true" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../res</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>res</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -264,23 +137,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542851228065</updated>
-      <workItem from="1542851229225" duration="1305000" />
+      <workItem from="1542851229225" duration="1672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1305000" />
+    <option name="totallyTimeSpent" value="1672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20735383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20735383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -309,8 +182,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="188" column="7" selection-start-line="188" selection-start-column="7" selection-end-line="188" selection-end-column="7" />
+        <state relative-caret-position="434">
+          <caret line="63" column="32" lean-forward="true" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
